@@ -106,6 +106,7 @@
             android:layout_height="wrap_content"
             android:src="@drawable/dpham147"/>
     </LinearLayout>
+
     <LinearLayout
         android:layout_width="145dp"
         android:layout_height="145dp"
